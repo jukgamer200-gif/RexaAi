@@ -1,0 +1,6 @@
+{
+  "name": "Rexa AI - Minecraft Plugin Maker & Error Fixer",
+  "description": "AI-powered Minecraft plugin creator & analyzer by Rexa AI. Generate Paper, Spigot, Purpur, Folia plugins for any version up to 26.2, fix errors, and export JAR and ZIP files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
